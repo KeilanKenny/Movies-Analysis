@@ -3,5 +3,5 @@ Repository containing files to [].
 
 - data - Data.
 - docs - Documentation.
-- outputs - Outut from code.
+- outputs - Output from code.
 - src - Source code.
